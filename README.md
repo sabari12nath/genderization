@@ -3,7 +3,7 @@
 # Genderization 🎯
 
 ## Basic Details
-### Team Name: ByteBeards
+### Team Name: LOOP
 
 ### Team Members
 - Team Lead: Sabarinath ps , SNMIMT
